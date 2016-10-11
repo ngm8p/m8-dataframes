@@ -28,5 +28,7 @@ opponents <- c("Dolphins", "Rams", "49ers", "Jets")
 
 # Assign your dataframe rownames of their opponents
 
-seahawks.data$opponents <- opponents
+  #seahawks.data$opponents <- opponents
+
+rownames(seahawks.data) <- opponents
 
