@@ -14,19 +14,19 @@ lunch <- c("pasta")
 
   #meals <- list(breakfast, lunch)
 
-meals <- list(first.meal = breakfast, second.meal = lunch)
+meals <- list(breakfast = breakfast, lunch = lunch)
 
 
 # Add a `dinner` index to your `meals` list that has what you plan to eat for dinner
 
   #meals <- list(breakfast, lunch, "rice")
 
-meals$third.meal <- c("rice", "vegetables")
+meals$dinner <- c("rice", "vegetables")
 
 
 # Extract your 'dinner' element from your list and save it in a vector called 'dinner'
 
-dinner <- meals$third.meal
+dinner <- meals$dinner
 
 
 ### Bonus ### 
