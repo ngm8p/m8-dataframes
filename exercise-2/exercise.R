@@ -1,3 +1,4 @@
+#Revised some answers
 # Exercise 2: Creating data frames
 
 # Create a vector of the number of points the Seahawks have scored in each game this season (google "Seahawks")
